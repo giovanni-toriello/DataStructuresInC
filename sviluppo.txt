@@ -1,0 +1,78 @@
+
+--- PROGETTAZIONE ---
+
+
+
+
+bilanciato(t, k) ---> b          					
+- se l'albero è vuoto oppure costituito dal solo nodo radice restituisco true;
+- richiamo l'operatore altezza passandogli come parametro il figlio sinistro di t e ne assegno il risultato ad A1
+- richiamo l'operatore altezza passandogli come parametro il figlio destro di t e ne assegno il risultato ad A2
+- calcolo la differenza in valore assoluto fra A1 e A2
+- se tale valore è maggiore di k restituisco false
+- altrimenti richiamo la funzione bilanciato due volte, una volta passando il figlio sinistro e una volta passando il figlio destro;
+- se entrambe hanno dato esito positivo, restituisco true (cioè tutt0 il BST è k-bilanciato) altrimenti restituisco false;
+
+
+createBSTBilanciato( v, n) ---> t
+- se n risulta uguale a 0, richiamo l'operatore newBST e ne restituisco il valore   //passo base
+- creo un nodo con l'operatore creaFoglia passando il valore presente nella posizione centrale del vettore pos;
+- richiamo createBSTBilanciato due volte:
+   1) passando come vettore la parte di v precedente pos, e come numero di elementi pos; ne assegno il risultato al figlio sinistro del nodo creato in precedenza 
+   2) passando come vettore la parte di v successiva a pos, e come numero di elementi n-pos-1; ne assegno il risultato al figlio sinistro del nodo creato in precedenza 
+
+
+printLeaves(t)
+- creo una coda Q di BST
+- se t non è vuoto allora aggiungo la radice alla coda
+- fin quando Q non è vuota:
+	- prendo un elemento C dalla testa di Q 
+	- se C non ha figli lo stampo
+	- altrimenti aggiungo i figli di C alla coda Q (quelli esistenti)
+							--- BST ---
+--- SPECIFICA SINTATTICA NUOVI OPERATORI ---
+
+tipo di riferimento: BST									
+tipi usati: item, boolean, int, vettore
+																	
+operatori:
+  - bilanciato(BST, int) -> boolean
+  - createBSTBilanciato(vettore, int) -> BST
+  - printLeaves(BST)
+ 
+--- SPECIFICA SEMANTICA DEI TIPI ---
+	
+tipo di riferimento BST:
+- Un BST è un albero binario di ricerca avente valore dei nodi di tipo item
+
+tipo usato vettore:
+- un vettore è una n-pla (a1, a2, ...., an) con n>=0 di elementi di tipo item
+
+
+--- SPECIFICA SEMANTICA DEGLI OPERATORI---
+	
+bilanciato(t, k) = b
+
+dati in ingresso: t, k
+pre-condizione: k non negativo, ovvero k>=0
+dati in output: b
+post-condizione: b è vero se t è k-bilanciato, altrimenti b è falso
+
+
+createBSTBilanciato(v, n) = t
+
+dati in ingresso: v, n
+pre-condizione:  v= (e0, e1, e2, ..., e(n-1)) con n>= 0, in modo tale che e0 <= e1 <= e2 <= .... <= e(n-1)
+		ovvero, v è un vettore vuoto oppure i suoi elementi sono ordinati in maniera non decrescente
+dati di output: t
+post-condizione: se v è il vettore vuoto con n=0, allora t è il BST vuoto;
+		se v= (e0, e1, e2, ..., e(n-1)), allora t è un BST che contiene gli stessi item di v ed è 1-bilanciato
+
+
+printLeaves(t)
+
+dati in ingresso: t
+pre-condizione: ---
+dati in output: stampa a video dei nodi foglia ordinati per livelli
+post-condizione: --- 
+
