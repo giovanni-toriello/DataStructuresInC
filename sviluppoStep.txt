@@ -23,3 +23,5 @@ post-condizioni: come viene restituito l’output.
 # Progettazione:
 
 Descrivere i passaggi della funzione per arrivare al risultato.
+
+https://www.notion.so/Sviluppo-f14da42f0fe746ddb33d3a291f2b1c5a
