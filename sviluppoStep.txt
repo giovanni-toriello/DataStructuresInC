@@ -1,0 +1,25 @@
+Sviluppo:
+
+# Specifica sintattica dei tipi:
+
+Specificare tutti i tipi che non sono primitivi es.(Btree , item, vettore).
+
+# Specifica sintattica dei nuovi operatori:
+
+Specificare tutte le nuovi funzioni con i loro input specificati solo come tipi, 
+spiegare brevemente cosa fa la funzione.
+
+# Specifica semantica degli operatori:
+
+funzione(input)→tipo di ritorno
+
+dati di ingresso: es. n,k
+pre-condizioni: condizioni sugli input da rispettare per far funzionare il metodo.
+
+dati output: il dato che viene restituito
+
+post-condizioni: come viene restituito l’output.
+
+# Progettazione:
+
+Descrivere i passaggi della funzione per arrivare al risultato.
