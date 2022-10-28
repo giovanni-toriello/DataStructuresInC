@@ -1,0 +1,3 @@
+C:/Users/nucle/CLionProjects/scambioultimo/cmake-build-debug/CMakeFiles/scambioultimo.dir
+C:/Users/nucle/CLionProjects/scambioultimo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nucle/CLionProjects/scambioultimo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

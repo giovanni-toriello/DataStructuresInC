@@ -1,0 +1,3 @@
+C:/Users/nucle/CLionProjects/adtBST/cmake-build-debug/CMakeFiles/adtBST.dir
+C:/Users/nucle/CLionProjects/adtBST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nucle/CLionProjects/adtBST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

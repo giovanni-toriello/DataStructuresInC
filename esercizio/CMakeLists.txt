@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(esercizio C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(esercizio main.c item.c item.h BTree.c BTree.h esame.c esame.h)

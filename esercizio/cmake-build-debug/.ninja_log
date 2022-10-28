@@ -1,0 +1,17 @@
+# ninja log v5
+9	43	6883904321450818	CMakeFiles/esercizio.dir/esame.c.obj	643b2d99336084d6
+0	70	6883904321722002	CMakeFiles/esercizio.dir/main.c.obj	c3746f09460c70a9
+6	100	6883904322024272	CMakeFiles/esercizio.dir/item.c.obj	c4a296b3b236139b
+3	116	6883904322195277	CMakeFiles/esercizio.dir/BTree.c.obj	d7189580a1800354
+117	210	6883904323097383	esercizio.exe	1fa464e018b77503
+1	43	6883905364865959	CMakeFiles/esercizio.dir/main.c.obj	c3746f09460c70a9
+1	43	6883905687927010	CMakeFiles/esercizio.dir/main.c.obj	c3746f09460c70a9
+1	47	6883905816918184	CMakeFiles/esercizio.dir/esame.c.obj	643b2d99336084d6
+47	102	6883905817441491	esercizio.exe	1fa464e018b77503
+1	44	6883917622536772	CMakeFiles/esercizio.dir/main.c.obj	c3746f09460c70a9
+4	45	6883917622536772	CMakeFiles/esercizio.dir/esame.c.obj	643b2d99336084d6
+45	96	6883917623028843	esercizio.exe	1fa464e018b77503
+2	42	6883918161361087	CMakeFiles/esercizio.dir/main.c.obj	c3746f09460c70a9
+42	92	6883918161836152	esercizio.exe	1fa464e018b77503
+1	39	6883918652229433	CMakeFiles/esercizio.dir/main.c.obj	c3746f09460c70a9
+40	90	6883918652710190	esercizio.exe	1fa464e018b77503

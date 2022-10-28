@@ -1,0 +1,13 @@
+# ninja log v5
+6	70	6885800681786673	CMakeFiles/scambioultimo.dir/list.c.obj	f9c7b0129e812f16
+1	40	6885923677221068	CMakeFiles/scambioultimo.dir/esame.c.obj	e546376a8daaf075
+1	41	6885923800595603	CMakeFiles/scambioultimo.dir/main.c.obj	4c373429854618ca
+3	70	6885800681776645	CMakeFiles/scambioultimo.dir/item.c.obj	e4b85e56fad3f14e
+41	91	6885923801077434	scambioultimo.exe	d5eed96a7da2e69b
+2	48	6885924154206551	CMakeFiles/scambioultimo.dir/main.c.obj	4c373429854618ca
+4	49	6885924154226548	CMakeFiles/scambioultimo.dir/esame.c.obj	e546376a8daaf075
+49	102	6885924154726855	scambioultimo.exe	d5eed96a7da2e69b
+2	45	6885925797983456	CMakeFiles/scambioultimo.dir/main.c.obj	4c373429854618ca
+45	103	6885925798537273	scambioultimo.exe	d5eed96a7da2e69b
+1	42	6885926317710399	CMakeFiles/scambioultimo.dir/main.c.obj	4c373429854618ca
+42	91	6885926318186267	scambioultimo.exe	d5eed96a7da2e69b

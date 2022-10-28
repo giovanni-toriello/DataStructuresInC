@@ -1,0 +1,1 @@
+int fogliaVicina(Btree t);

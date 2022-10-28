@@ -1,0 +1,3 @@
+C:/Users/nucle/CLionProjects/esercizio/cmake-build-debug/CMakeFiles/esercizio.dir
+C:/Users/nucle/CLionProjects/esercizio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nucle/CLionProjects/esercizio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

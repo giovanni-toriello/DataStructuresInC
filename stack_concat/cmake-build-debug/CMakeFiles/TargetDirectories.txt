@@ -1,0 +1,3 @@
+C:/Users/nucle/CLionProjects/stack_concat/cmake-build-debug/CMakeFiles/stack_concat.dir
+C:/Users/nucle/CLionProjects/stack_concat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nucle/CLionProjects/stack_concat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+2	42	6877118476215374	CMakeFiles/adtStack.dir/main.c.obj	258b9541ebb8076e
+3	53	6876135835925272	CMakeFiles/adtStack.dir/item.c.obj	b699a2d6019ae835
+1	47	6877121580215944	CMakeFiles/adtStack.dir/stack.c.obj	d84a7469b3a14f02
+47	96	6877121580676713	adtStack.exe	34728a02aa4adfc7
+1	62	6877122287192605	CMakeFiles/adtStack.dir/stack.c.obj	d84a7469b3a14f02
+62	116	6877122287722547	adtStack.exe	34728a02aa4adfc7
+1	47	6877123156548040	CMakeFiles/adtStack.dir/stack.c.obj	d84a7469b3a14f02
+47	97	6877123157027040	adtStack.exe	34728a02aa4adfc7
+1	107	6877141032118584	CMakeFiles/adtStack.dir/stack.c.obj	d84a7469b3a14f02
+107	183	6877141032854767	adtStack.exe	34728a02aa4adfc7
